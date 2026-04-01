@@ -82,7 +82,7 @@ public class Main {
     Customer customer = new Customer(
             1L,
             "Rishi",
-            "risgiragu25@gmail.com",
+            "rishiragu25@gmail.com",
             580630308668L,
             "9443444404"
     );
